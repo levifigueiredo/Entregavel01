@@ -1,0 +1,17 @@
+# EditorConfig é um arquivo de configuração que define padrões para editores de texto
+root = true
+
+[*]
+end_of_line = lf
+charset = utf-8
+indent_style = space
+indent_size = 4
+tab_width = 4
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.java]
+indent_size = 4
+
+[*.js]
+indent_size = 2
